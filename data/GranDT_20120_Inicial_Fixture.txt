@@ -1,0 +1,179 @@
+Fecha 5 - Domingo 2 de septiembre de 2012
+Vélez Sarsfield - Belgrano
+Racing Club - San Martín de San Juan
+Arsenal F.C. - Lanús
+Godoy Cruz - Independiente
+Tigre  - San Lorenzo
+Quilmes - Argentinos Juniors
+Boca Juniors - Atlético de Rafaela
+All Boys - Unión
+Colón  - River Plate
+Newell’s Old Boys - Estudiantes de La Plata
+
+Fecha 6 - Miércoles 5 de septiembre de 2012
+Argentinos Juniors - Boca Juniors
+Independiente - Quilmes
+Lanús - Godoy Cruz
+San Martín de San Juan - Arsenal F.C.
+Belgrano -Racing Club
+Estudiantes de La Plata - Vélez Sarsfield
+River Plate - Newell’s Old Boys
+San Lorenzo - Colón
+Unión - Tigre
+Atlético de Rafaela - All Boys
+
+Fecha 7 - Domingo 16 de septiembre de 2012
+Vélez Sarsfield - River Plate
+Racing Club - Estudiantes de La Plata
+Arsenal F.C. - Belgrano
+Godoy Cruz - San Martín de San Juan
+Tigre - Colón
+Quilmes - Lanús
+Boca Juniors - Independiente
+All Boys - Argentinos Juniors
+Unión - Atlético de Rafaela
+Newell’s Old Boys - San Lorenzo
+
+Fecha 8 - Domingo 23 de septiembre de 2012
+Argentinos Juniors - Unión
+Independiente - All Boys
+Lanús - Boca Juniors
+San Martín de San Juan - Quilmes
+Belgrano - Godoy Cruz
+Estudiantes de La Plata - Arsenal F.C.
+River Plate - Racing Club
+San Lorenzo - Vélez Sarsfield
+Colón - Newell’s Old Boys
+Atlético de Rafaela - Tigre
+
+Fecha 9 - Domingo 30 de septiembre de 2012
+Vélez Sarsfield - Colón
+Racing Club- San Lorenzo 
+Arsenal F.C. - River Plate
+Godoy Cruz - Estudiantes de La Plata
+Tigre - Newell’s Old Boys
+Quilmes - Belgrano 
+Boca Juniors - San Martín de San Juan
+All Boys - Lanús
+Unión - Independiente
+Atlético de Rafaela - Argentinos Juniors
+
+Fecha 10 - Domingo 7 de octubre de 2012
+Argentinos Juniors - Tigre
+Independiente - Atlético de Rafaela
+Lanús - Unión
+San Martín de San Juan - All Boys
+Belgrano - Boca Juniors
+Estudiantes de La Plata - Quilmes
+River Plate - Godoy Cruz
+San Lorenzo - Arsenal F.C.
+Colón - Racing Club
+Newell’s Old Boys - Vélez Sarsfield
+
+Fecha 11 - Domingo 21 de octubre de 2012
+Argentinos Juniors - Independiente
+Racing Club - Newell’s Old Boys
+Arsenal F.C. - Colón
+Godoy Cruz - San Lorenzo
+Tigre - Vélez Sarsfield
+Quilmes - River Plate
+Boca Juniors - Estudiantes de La Plata
+All Boys - Belgrano
+Unión - San Martín de San Juan
+Atlético de Rafaela - Lanús
+
+Fecha 12 - Domingo 28 de octubre de 2012
+Vélez Sarsfield - Racing Club
+Independiente - Tigre
+Lanús - Argentinos Juniors 
+San Martín de San Juan - Atlético de Rafaela
+Belgrano - Unión
+Estudiantes de La Plata - All Boys
+River Plate - Boca Juniors
+San Lorenzo - Quilmes
+Colón - Godoy Cruz
+Newell’s Old Boys - Arsenal F.C.
+
+Fecha 13 - Domingo 4 de noviembre de 2012
+Argentinos Juniors - San Martín de San Juan
+Independiente - Lanús
+Arsenal F.C. - Vélez Sarsfield
+Godoy Cruz - Newell’s Old Boys
+Tigre - Racing Club
+Quilmes - Colón
+Boca Juniors - San Lorenzo
+All Boys - River Plate
+Unión - Estudiantes de La Plata
+Atlético de Rafaela - Belgrano
+
+Fecha 14 - Domingo 11 de noviembre de 2012
+Vélez Sarsfield - Godoy Cruz 
+Racing Club - Arsenal F.C.
+Lanús - Tigre
+San Martín de San Juan - Independiente
+Belgrano - Argentinos Juniors
+Estudiantes de La Plata - Atlético de Rafaela 
+River Plate - Unión
+San Lorenzo - All Boys
+Colón - Boca Juniors
+Newell’s Old Boys - Quilmes
+
+Fecha 15 - Miércoles 14 de noviembre de 2012
+Argentinos Juniors - Estudiantes de La Plata
+Independiente - Belgrano
+Lanús - San Martín de San Juan
+Godoy Cruz - Racing Club
+Tigre - Arsenal F.C.
+Quilmes - Vélez Sarsfield
+Boca Juniors - Newell’s Old Boys
+All Boys - Colón
+Unión - San Lorenzo
+Atlético de Rafaela - River Plate
+
+Fecha 16 - Domingo 18 de noviembre de 2012
+Vélez Sarsfield - Boca Juniors
+Racing Club - Quilmes
+Arsenal F.C. - Godoy Cruz
+San Martín de San Juan - Tigre
+Belgrano - Lanús
+Estudiantes de La Plata - Independiente
+River Plate - Argentinos Juniors
+San Lorenzo - Atlético de Rafaela
+Colón - Unión
+Newell’s Old Boys - All Boys
+
+Fecha 17 - Domingo 25 de noviembre de 2012
+Argentinos Juniors - San Lorenzo
+Independiente - River Plate
+Lanús - Estudiantes de La Plata
+San Martín de San Juan - Belgrano
+Tigre - Godoy Cruz
+Quilmes - Arsenal F.C.
+Boca Juniors - Racing Club
+All Boys - Vélez Sarsfield
+Unión - Newell’s Old Boys
+Atlético de Rafaela - Colón
+
+Fecha 18 - Domingo 2 de diciembre de 2012
+Vélez Sarsfield - Unión
+Racing Club - All Boys
+Arsenal F.C. - Boca Juniors
+Godoy Cruz - Quilmes
+Belgrano - Tigre
+Estudiantes de La Plata - San Martín de San Juan
+River Plate - Lanús
+San Lorenzo - Independiente
+Colón - Argentinos Juniors
+Newell’s Old Boys - Atlético de Rafaela
+
+Fecha 19 - Domingo 9 de diciembre de 2012
+Argentinos Juniors - Newell’s Old Boys
+Independiente - Colón
+Lanús - San Lorenzo
+San Martín de San Juan - River Plate
+Belgrano - Estudiantes de La Plata
+Quilmes - Tigre
+Boca Juniors - Godoy Cruz 
+All Boys - Arsenal F.C.
+Unión - Racing Club
+Atlético de Rafaela - Vélez Sarsfield

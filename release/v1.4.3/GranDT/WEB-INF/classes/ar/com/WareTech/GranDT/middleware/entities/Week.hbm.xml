@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="ar.com.WareTech.GranDT.middleware.entities.Week" table="week">
+		<id name="id" type="java.lang.Long" >
+			<generator class="native" />
+		</id>
+		<version name="version"  type="java.lang.Long"/>
+		<property name="number" type="java.lang.Integer" not-null="true"/>
+		<set name="matchSet" lazy="true" inverse="true" cascade="none" order-by="id">
+			<key>
+            	<column name="week" />
+            </key>
+            <one-to-many class="ar.com.WareTech.GranDT.middleware.entities.Match" />
+        </set>
+	</class>
+</hibernate-mapping>

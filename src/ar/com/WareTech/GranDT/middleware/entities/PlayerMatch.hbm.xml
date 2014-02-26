@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="ar.com.WareTech.GranDT.middleware.entities.PlayerMatch" table="playermatch">
+		<id name="id" type="java.lang.Long" >
+			<generator class="native" />
+		</id>
+		<version name="version"  type="java.lang.Long"/>
+		<property name="totalPoints" type="java.lang.Double"/>
+		<property name="olePoints" type="java.lang.Double"/>
+		<property name="cleanGoal" type="java.lang.Boolean"/>
+		<property name="recivedGoals" type="java.lang.Integer"/>
+		<property name="mom" type="java.lang.Boolean"/>
+		<property name="goals" type="java.lang.Integer"/>
+		<property name="penaltyGoals" type="java.lang.Integer"/>
+		<property name="freeKickGoals" type="java.lang.Integer"/>
+		<property name="ownGoals" type="java.lang.Integer"/>
+		<property name="missedPenalties" type="java.lang.Integer"/>
+		<property name="cachedPenalties" type="java.lang.Integer"/>
+		<property name="yellowCard" type="java.lang.Boolean"/>
+		<property name="redCard" type="java.lang.Boolean"/>
+		<many-to-one name="match" column="match_" class="ar.com.WareTech.GranDT.middleware.entities.Match"/>
+		<many-to-one name="player" class="ar.com.WareTech.GranDT.middleware.entities.Player"/>
+	</class>
+</hibernate-mapping>

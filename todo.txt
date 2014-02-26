@@ -1,0 +1,70 @@
+-----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+CupPhase
+	name
+	nextPhase
+	type [regular | playoff]
+	
+CupGroup
+	phase
+	name
+
+CupGroupTeam
+	team
+	group
+	
+CupMatch
+	week
+	group
+	localTeam
+	localGoals
+	awayTeam
+	awayGoals
+	played
+
+CupGroupPositionTeamWeek
+	week
+	group
+	position
+	team
+	points
+	played
+	...
+	
+-----------------------------------------------------------------------------------------------------------------------
+Buenisimo!!
+Los grupos los organizaba usando las posiciones del campeonato anterior para determinar los cabezas de serie. Luego asignaba en orden ascendente desde el ultimo d la B hasta el 6to de la A (q no es cabeza d serie). 
+Las zonas son de ida y vuelta y clasifican los 5 primeros y los 3 mejores segundos (por ptos, dif. d gol y goles a favor). Los goles se hacen cada diez puntos de la fecha y la ultima vez lo hice a partir de los 80pts (o sea 80 o mas 1 gol, 90 dos, etc. ). Antes lo hemos hecho con 70..si lo haces alto premias a los q mas se destacan. Igual depende d cuan parecidos sean los equipos. Otra es esta vez hacerlo a partir de los 75..
+Los playoffs dependen si t alcanzan las fechas y eso depende d cuando arranques, si arrancas la q viene te alcanza para partidos d ida y vuelta. En caso d empate en la serie gana "por penales" el q hizo mas puntos en los dos partidos. (Creo q alguna vez habiamos dicho d hacer lo mismo para los partidos de la promo).  
+ 
+Avisame si necesitas mas ayuda. 
+Abrazo
+PS: ..ah y tiene q haber una mina en la pantalla d inicio!
+
+-----------------------------------------------------------------------------------------------------------------------
+22.02.2010
+
+- PositionTeamWeekEdit.jsp > cambiar el "sí" / "no" por un "tilde verde" / "cruz roja"
+	
+-----------------------------------------------------------------------------------------------------------------------
+21.02.2010
+
+DONE! - Corrección de los números negativos en los puntajes de los jugadores cuando se carga la fecha
+- Estadísticas
+	DONE! - Jugadores más utilizados
+	DONE! - Puntajes x jugadores
+	- Puntajes x jugadores x equipo
+	
+-----------------------------------------------------------------------------------------------------------------------
+16.02.2010
+
+- Mandar mail a subconjunto de DTs
+- ChatRoom
+- Obligar a que cambien el nombre los equipos desafiliados
+
+-----------------------------------------------------------------------------------------------------------------------
+25.01.2010
+
+DONE! - Carga de equipos desde la aplicación

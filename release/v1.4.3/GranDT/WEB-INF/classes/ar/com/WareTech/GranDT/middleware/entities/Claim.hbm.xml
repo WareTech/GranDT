@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="ar.com.WareTech.GranDT.middleware.entities.Claim" table="claim">
+		<id name="id" type="java.lang.Long" >
+			<generator class="native" />
+		</id>
+		<version name="version"  type="java.lang.Long"/>
+		<property name="title" type="java.lang.String" length="255" not-null="true"/>
+		<property name="description" type="java.lang.String" length="255" not-null="true"/>
+		<property name="target" type="java.lang.Integer" not-null="true"/>
+		<property name="priority" type="java.lang.Integer" not-null="true"/>
+		<many-to-one name="user" class="ar.com.WareTech.GranDT.middleware.entities.User" not-null="true" />
+		<property name="date" type="java.util.Date" not-null="true"/>
+		<property name="state" type="java.lang.Integer" not-null="true"/>
+	</class>
+</hibernate-mapping>

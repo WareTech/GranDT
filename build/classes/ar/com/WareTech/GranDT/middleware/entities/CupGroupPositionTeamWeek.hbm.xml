@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="ar.com.WareTech.GranDT.middleware.entities.CupGroupPositionTeamWeek" table="cupgrouppositionteamweek">
+		<id name="id" type="java.lang.Long" >
+			<generator class="native" />
+		</id>
+		<version name="version"  type="java.lang.Long"/>
+		<many-to-one name="group" column="group_" class="ar.com.WareTech.GranDT.middleware.entities.CupGroup" not-null="true" />
+		<many-to-one name="week" class="ar.com.WareTech.GranDT.middleware.entities.Week" not-null="true" />
+		<property name="position" type="java.lang.Integer" />
+		<many-to-one name="team" class="ar.com.WareTech.GranDT.middleware.entities.Team" not-null="true" />
+		<property name="points" type="java.lang.Integer" />
+		<property name="played" type="java.lang.Integer" />
+		<property name="wins" type="java.lang.Integer" />
+		<property name="draws" type="java.lang.Integer" />
+		<property name="loses" type="java.lang.Integer" />
+		<property name="goalsIn" type="java.lang.Integer" />
+		<property name="goalsOut" type="java.lang.Integer" />
+	</class>
+</hibernate-mapping>

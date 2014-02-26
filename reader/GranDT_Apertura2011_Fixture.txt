@@ -1,0 +1,165 @@
+Fecha 5 – 04/09/2011
+San Martín de San Juan-Argentinos Juniors
+Lanús-Estudiantes de La Plata
+Arsenal-Godoy Cruz
+All Boys-Racing
+Tigre-Banfield
+Olimpo de Bahía Blanca-Vélez Sarsfield
+Unión-Atlético Rafaela
+Newell’s Old Boys-Colón
+San Lorenzo-Belgrano de Córdoba
+Independiente-Boca Juniors
+Fecha 6 – 11/09/2011
+Godoy Cruz -All Boys
+Banfield-Arsenal
+Estudiantes de La Plata-Tigre
+Argentinos Juniors-Lanús
+Boca Juniors-San Martín de San Juan
+Belgrano de Córdoba-Independiente
+Colón-San Lorenzo
+Atlético Rafaela-Newell’s Old Boys
+Vélez Sarsfield-Unión
+Racing-Olimpo de Bahía Blanca
+Fecha 7 – 18/09/2011
+San Martín de San Juan-Belgrano de Córdoba
+Lanús-Boca Juniors
+Estudiantes de La Plata-Argentinos Juniors
+All Boys-Banfield
+Tigre-Arsenal
+Olimpo de Bahía Blanca-Godoy Cruz
+Unión-Racing
+Newell’s Old Boys-Vélez Sarsfield
+San Lorenzo-Atlético Rafaela
+Independiente-Colón
+Fecha 8 – 21/09/2011
+Godoy Cruz-Unión
+Banfield-Olimpo de Bahía Blanca
+Arsenal-All Boys
+Argentinos Juniors-Tigre
+Boca Juniors-Estudiantes de La Plata
+Belgrano de Córdoba-Lanús
+Colón-San Martín de San Juan
+Atlético Rafaela-Independiente
+Vélez Sarsfield-San Lorenzo
+Racing-Newell’s Old Boys
+Fecha 9 – 25/09/2011
+San Martín de San Juan-Atlético Rafaela
+Lanús-Colón
+Estudiantes de La Plata-Belgrano de Córdoba
+Argentinos Juniors-Boca Juniors
+Tigre-All Boys
+Olimpo de Bahía Blanca-Arsenal
+Unión-Banfield
+Newell’s Old Boys-Godoy Cruz
+San Lorenzo-Racing
+Independiente-Vélez Sarsfield
+Fecha 10 – 02/10/2011
+Godoy Cruz-San Lorenzo
+Banfield-Newell’s Old Boys
+Arsenal-Unión
+All Boys-Olimpo de Bahía Blanca
+Boca Juniors-Tigre
+Belgrano de Córdoba-Argentinos Juniors
+Colón-Estudiantes de La Plata
+Atlético Rafaela-Lanús
+Vélez Sarsfield-San Martín de San Juan
+Racing-Independiente
+Fecha 11 - 16/10/2011
+San Martín de San Juan-Racing
+Lanús-Vélez Sarsfield
+Estudiantes de La Plata-Atlético Rafaela
+Argentinos Juniors-Colón
+Boca Juniors-Belgrano de Córdoba
+Olimpo de Bahía Blanca-Tigre
+Unión-All Boys
+Newell’s Old Boys-Arsenal
+San Lorenzo-Banfield
+Independiente-Godoy Cruz
+Fecha 12 – 26/10/2011
+Godoy Cruz-San Martín de San Juan
+Banfield-Independiente
+Arsenal-San Lorenzo
+All Boys-Newell’s Old Boys
+Tigre-Belgrano de Córdoba
+Olimpo de Bahía Blanca-Unión
+Colón-Boca Juniors
+Atlético Rafaela-Argentinos Juniors
+Vélez Sarsfield-Estudiantes de La Plata
+Racing-Lanús
+Fecha 13 - 30/10/2011
+San Martín de San Juan-Banfield
+Lanús-Godoy Cruz
+Estudiantes de La Plata-Racing
+Argentinos Juniors-Vélez Sarsfield
+Boca Juniors-Atlético Rafaela
+Belgrano de Córdoba-Colón
+Unión-Tigre
+Newell’s Old Boys-Olimpo de Bahía Blanca
+San Lorenzo-All Boys
+Independiente-Arsenal
+Fecha 14 – 06/11/2011
+Godoy Cruz-Estudiantes de La Plata
+Banfield-Lanús
+Arsenal-San Martín de San Juan
+All Boys-Independiente
+Tigre-Colón
+Olimpo de Bahía Blanca-San Lorenzo
+Unión-Newell’s Old Boys
+Atlético Rafaela-Belgrano de Córdoba
+Vélez Sarsfield-Boca Juniors
+Racing-Argentinos Juniors
+Fecha 15 - 20/11/2011
+San Martín de San Juan-All Boys
+Lanús-Arsenal
+Estudiantes de La Plata-Banfield
+Argentinos Juniors-Godoy Cruz
+Boca Juniors-Racing
+Belgrano de Córdoba-Vélez Sarsfield
+Colón-Atlético Rafaela
+Newell’s Old Boys-Tigre
+San Lorenzo-Unión
+Independiente-Olimpo de Bahía Blanca
+Fecha 16 - 27/11/2011
+Godoy Cruz-Boca Juniors
+Banfield-Argentinos Juniors
+Arsenal-Estudiantes de La Plata
+All Boys-Lanús
+Tigre-Atlético Rafaela
+Olimpo de Bahía Blanca-San Martín de San Juan
+Unión-Independiente
+Newell’s Old Boys-San Lorenzo
+Vélez Sarsfield-Colón
+Racing-Belgrano de Córdoba
+Fecha 17 – 04/12/2011
+San Martín de San Juan-Unión
+Lanús-Olimpo de Bahía Blanca
+Estudiantes de La Plata-All Boys
+Argentinos Juniors-Arsenal
+Boca Juniors-Banfield
+Belgrano de Córdoba-Godoy Cruz
+Colón-Racing
+Atlético Rafaela-Vélez Sarsfield
+San Lorenzo-Tigre
+Independiente-Newell’s Old Boys
+Fecha 18 – 11/12/2011
+Godoy Cruz-Colón
+Banfield-Belgrano de Córdoba
+Arsenal-Boca Juniors
+All Boys-Argentinos Juniors
+Tigre-Vélez Sarsfield
+Olimpo de Bahía Blanca-Estudiantes de La Plata
+Unión-Lanús
+Newell’s Old Boys-San Martín de San Juan
+San Lorenzo-Independiente
+Racing-Atlético Rafaela
+Fecha 19 - 18/12/2011
+San Martín de San Juan-San Lorenzo
+Lanús-Newell’s Old Boys
+Estudiantes de La Plata-Unión
+Argentinos Juniors-Olimpo de Bahía Blanca
+Boca Juniors-All Boys
+Belgrano de Córdoba-Arsenal
+Colón-Banfield
+Atlético Rafaela-Godoy Cruz
+Vélez Sarsfield-Racing
+Independiente-Tigre

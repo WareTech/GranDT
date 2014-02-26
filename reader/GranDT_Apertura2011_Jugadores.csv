@@ -1,0 +1,635 @@
+1;0;Walter;Acevedo;;5;3;4400;0
+2;0;David;Achucarro;;7;2;600;0
+3;0;Jorge;Achucarro;;5;4;4500;0
+4;0;Joel;Acosta;;7;4;500;0
+5;0;Ricardo;Acosta;;19;3;1200;0
+6;0;Alan;Aguerre;;20;1;300;0
+7;0;Pablo César;Aguilar;;3;2;4000;0
+8;0;Emanuel;Aguilera;;10;2;1200;0
+9;0;Gastón;Aguirre;;16;2;3700;0
+10;0;Marcos;Aguirre;;17;3;3700;0
+11;0;Nicolás;Aguirre;;3;3;2000;0
+12;0;Lucas;Alario;;8;4;500;0
+13;0;Damián;Albil;;9;1;3000;0
+14;0;Federico;Almerares;;6;4;2800;0
+15;0;Sergio;Almirón;;13;4;2800;0
+16;0;Pablo;Alvarado;;16;3;1800;0
+17;0;Cristian;Alvarez;;17;3;3200;0
+18;0;Nicolás;Amerise;;19;4;1000;0
+19;0;Esteban;Andrada;;12;1;900;0
+20;0;Martín;Antoniazzi;;19;2;300;0
+21;0;Arturo David;Aquino;;14;2;2000;0
+22;0;Víctor;Aquino;;13;4;2800;0
+23;0;Carlos;Araujo;;12;2;3000;0
+24;0;Sergio;Araujo;;7;4;2000;0
+25;0;Ignacio;Arce;;19;1;900;0
+26;0;Luis;Ardente;;17;1;2500;0
+27;0;Adrián;Argachá;;11;2;2000;0
+28;0;Gabriel;Arias;;14;1;600;0
+29;0;Joaquín;Arzura;;18;3;300;0
+30;0;Fabián;Assmann;;11;1;4000;0
+31;0;Luciano;Aued;;15;3;4000;0
+32;0;Carlos;Auzqui;;9;4;1000;0
+33;0;Diego;Auzqui;;9;3;1200;0
+34;0;Lucas;Aveldaño;;15;2;3700;0
+35;0;Juan;Avendaño;;19;2;3200;0
+36;0;Néstor;Ayala;;17;4;3800;0
+37;0;Cristian;Báez;;11;2;1500;0
+38;0;Andrés;Bailo;;8;1;700;0
+39;0;Luciano;Balbi;;12;2;2800;0
+40;0;Alejandro;Bárbaro;;5;3;1600;0
+41;0;Guido;Barceló;;10;4;1100;0
+42;0;Ignacio;Barcia;;11;2;800;0
+43;0;Néstor;Bareiro;;14;4;4100;0
+44;0;Hugo;Bargas;;1;4;2000;0
+45;0;Diego;Barisone;;19;2;800;0
+46;0;Marcelo;Barovero;;20;1;6000;0
+47;0;Jerónimo;Barrales;;19;4;3200;0
+48;0;Julio;Barraza;;8;2;2500;0
+49;0;Leandro;Barrera;;2;4;600;0
+50;0;Fernando;Barrientos;;12;3;400;0
+51;0;Hugo;Barrientos;;1;3;3500;0
+52;0;Pier Miqueas;Barrios;;6;2;1100;0
+53;0;Pablo;Barzola;;2;2;3000;0
+54;0;Adrián;Bastía;;8;3;3700;0
+55;0;Germán;Basualdo;;2;3;2400;0
+56;0;Matías;Batista;;1;2;300;0
+57;0;Sebastián;Battaglia;;7;3;5000;0
+58;0;Roberto;Battión;;11;3;4200;0
+59;0;Nicolás;Bauchet;;5;4;400;0
+60;0;Gonzalo;Bazán;;16;3;2600;0
+61;0;Iván;Bella;;20;3;3400;0
+62;0;Darío;Benedetto;;3;4;2100;0
+63;0;Leandro Damián;Benítez;;9;3;5100;0
+64;0;Marcos;Benítez;;13;2;500;0
+65;0;Nahuel;Benítez;;16;4;900;0
+66;0;Nelson;Benítez;;9;2;3000;0
+67;0;Oscar;Benítez;;12;3;300;0
+68;0;Nicolás;Berardo;;2;2;2400;0
+69;0;Lucas;Bernardi;;13;3;4500;0
+70;0;Nicolás;Bianchi Arce;;16;2;4000;0
+71;0;Mariano Ezequiel;Bittolo;;20;2;1000;0
+72;0;Gustavo;Blanco Leschuk;;3;4;2500;0
+73;0;Nicolás;Blandi;;7;4;2800;0
+74;0;Juan Carlos;Blengio;;18;2;3800;0
+75;0;Mauro;Bogado;;17;3;2700;0
+76;0;Enrique;Bologna;;19;1;4500;0
+77;0;Luciano;Bonomo;;9;2;400;0
+78;0;Mauro;Boselli;;9;4;9000;0
+79;0;Rubén;Botta;;18;3;3000;0
+80;0;Jonathan;Bottinelli;;16;2;5100;0
+81;0;Gonzalo;Bozzoni;;16;2;1600;0
+82;0;Diego ;Braghieri;;12;2;2500;0
+83;0;Rodrigo;Braña;;9;3;5200;0
+84;0;Ariel;Broggi;;5;2;2300;0
+85;0;Roberto;Brum;;2;3;3000;0
+86;0;Nicolás;Bruna;;19;3;2300;0
+87;0;Guillermo;Burdisso;;3;2;4200;0
+88;0;Javier;Burrai;;3;1;300;0
+89;0;Walter;Busse;;11;3;3100;0
+90;0;Marcelo;Bustamante;;5;2;3500;0
+91;0;Maximiliano;Bustos;;17;3;2800;0
+92;0;Alejandro;Cabral;;20;3;3000;0
+93;0;Gonzalo;Cabrera;;10;3;2000;0
+94;0;Nicolás;Cabrera;;11;3;4000;0
+95;0;Rafael;Cabrera;;16;3;300;0
+96;0;Germán;Cáceres;;4;3;2900;0
+97;0;Marcos;Cáceres;;15;2;4000;0
+98;0;Samuel;Cáceres;;11;2;900;0
+99;0;Juan Pablo;Caffa;;3;3;3900;0
+100;0;Leonel;Cafferatti;;15;1;300;0
+101;0;Matías;Cahais;;15;2;4000;0
+102;0;Maximiliano;Caire;;8;2;1800;0
+103;0;Néstor;Camacho;;13;3;3200;0
+104;0;Alejandro;Camargo;;10;3;1600;0
+105;0;Nicolás;Cambiasso;;1;1;4600;0
+106;0;Mauro;Camoranesi;;12;3;6100;0
+107;0;Cristian;Campestrini;;3;1;5300;0
+108;0;Salustiano;Candia;;8;2;2800;0
+109;0;Pablo;Cantero;;17;3;2000;0
+110;0;Héctor;Canteros;;20;3;2900;0
+111;0;Damián;Canuto;;17;3;1200;0
+112;0;Nicolás;Capellino;;4;4;1000;0
+113;0;Gastón;Caprari;;17;4;2100;0
+114;0;Nicolás;Caprio;;19;1;600;0
+115;0;Matías;Carabajal;;17;3;2500;0
+116;0;Mauricio;Caranta;;12;1;4400;0
+117;0;Carlos;Carbonero;;9;3;3000;0
+118;0;Ezequiel;Carboni;;5;3;4200;0
+119;0;Juan Pablo;Cárdenas;;19;2;3000;0
+120;0;Giancarlo;Carmona;;16;2;3900;0
+121;0;Oscar;Carniello;;4;2;2800;0
+122;0;César;Carranza;;12;4;4500;0
+123;0;Jorge;Carranza;;4;1;1800;0
+124;0;Javier;Carrasco;;18;3;1500;0
+125;0;Sebastián;Carrera;;4;3;4200;0
+126;0;Guido;Carrillo;;9;4;1200;0
+127;0;Marcelo;Carrusca;;17;3;4100;0
+128;0;Leandro;Caruso;;10;4;4000;0
+129;0;Matías;Caruzzo;;7;2;4700;0
+130;0;Eduardo;Casais;;14;2;3100;0
+131;0;Diego;Castaño;;18;3;4500;0
+132;0;Carlos;Casteglione;;18;2;3900;0
+133;0;Jairo;Castillo;;11;4;4000;0
+134;0;Facundo;Castillón;;10;4;2300;0
+135;0;Lucas;Castro;;15;3;4000;0
+136;0;Nicolás;Castro;;4;3;2800;0
+137;0;Lucas;Ceballos;;10;2;1500;0
+138;0;Cristian;Cellay;;9;2;4300;0
+139;0;Gastón;Cellerino;;15;3;2300;0
+140;0;Christian;Cepeda;;3;2;500;0
+141;0;Francisco;Cerro;;20;3;3900;0
+142;0;Nereo;Champagne;;16;1;2000;0
+143;0;Christian;Chávez;;16;4;3500;0
+144;0;Cristian;Chávez;;7;3;4200;0
+145;0;Javier;Chevantón;;8;4;4300;0
+146;0;Gino;Clara;;11;4;3000;0
+147;0;Juan Manuel;Cobo;;3;3;3000;0
+148;0;Nicolás;Colazo;;7;3;3200;0
+149;0;Gabriel;Colombatti;;15;2;400;0
+150;0;Ignacio;Colombini;;15;4;600;0
+151;0;Armando;Cooper;;10;3;2200;0
+152;0;Jherson;Córdoba;;4;3;3000;0
+153;0;Facundo;Coria;;9;3;4800;0
+154;0;Maximiliano;Coronel;;1;2;1500;0
+155;0;Jorge Iván;Correa;;20;3;400;0
+156;0;Nicolás;Correa;;19;2;2500;0
+157;0;Leonardo;Corti;;17;1;1000;0
+158;0;Tomás;Costa;;8;3;3900;0
+159;0;Agustín;Cousillas;;18;1;500;0
+160;0;Fabián;Cubero;;20;3;4400;0
+161;0;Víctor;Cuesta;;3;2;1600;0
+162;0;Jorge;Curbelo;;10;2;3700;0
+163;0;Facundo;Curuchet;;8;4;800;0
+164;0;Darío;Cvitanich;;7;4;6800;0
+165;0;Sebastián;D'Angelo;;7;1;500;0
+166;0;Israel;Damonte;;10;3;3100;0
+167;0;Jorge;De Olivera;;15;1;3500;0
+168;0;Diego;De Souza;;5;3;3300;0
+169;0;Matías;Defederico;;11;4;4700;0
+170;0;Alejandro;Delfino;;5;2;1900;0
+171;0;Nicolás;Delmonte;;11;4;800;0
+172;0;Leandro;Desábato;;9;2;5400;0
+173;0;Leandro Luis;Desábato;;20;3;600;0
+174;0;José;Devaca;;5;2;1800;0
+175;0;Lucas;Di Grazia;;1;1;400;0
+176;0;Matías;Di Gregorio;;4;2;1500;0
+177;0;Cristian;Díaz;;13;3;2900;0
+178;0;Gabriel;Díaz;;14;2;1000;0
+179;0;Gastón;Díaz;;20;2;3600;0
+180;0;Gastón;Díaz;;18;3;2000;0
+181;0;Leandro;Díaz;;12;4;2800;0
+182;0;Marcos;Díaz;;8;1;1200;0
+183;0;Mauro;Dobler;;15;1;600;0
+184;0;Eduardo;Domínguez;;1;2;4600;0
+185;0;Sebastián;Domínguez;;20;2;5000;0
+186;0;Mauro;Dos Santos;;5;2;3600;0
+187;0;Francisco;Dutari;;4;2;2800;0
+188;0;Mariano;Echeverría;;18;2;4800;0
+189;0;Juan;Eluchans;;5;3;3600;0
+190;0;Cristian;Erbes;;7;3;2500;0
+191;0;Rodrigo;Erramuspe;;19;2;2600;0
+192;0;Walter;Erviti;;7;3;8500;0
+193;0;Matías;Escalante;;1;3;300;0
+194;0;Matías;Escobar;;18;3;2700;0
+195;0;Sergio;Escudero;;2;2;3500;0
+196;0;Gastón;Esmerado;;3;3;2700;0
+197;0;Gonzalo;Espinoza;;15;3;2500;0
+198;0;Iván;Etevenaux;;6;3;1000;0
+199;0;Emir;Faccioli;;14;2;3500;0
+200;0;Juan Carlos;Falcón;;10;3;3000;0
+201;0;Federico;Falcone;;13;4;1800;0
+202;0;Lorenzo;Faravelli;;13;3;1100;0
+203;0;Luis Carlos;Fariña;;15;3;1500;0
+204;0;Guillermo;Farré;;6;3;2600;0
+205;0;Alexis;Fernández;;19;3;1800;0
+206;0;Augusto;Fernández;;20;3;5200;0
+207;0;Gastón;Fernández;;9;4;7900;0
+208;0;José Luis;Fernández;;9;3;4100;0
+209;0;Juan;Fernández;;4;2;3200;0
+210;0;Julián;Fernández;;4;2;1600;0
+211;0;Mauro;Fernández;;9;4;2300;0
+212;0;Nereo;Fernández;;2;1;2300;0
+213;0;Guillermo;Ferragutti;;13;2;1200;0
+214;0;Jonathan;Ferrari;;16;2;2900;0
+215;0;Brian;Ferreira;;20;3;400;0
+216;0;Facundo;Ferreyra;;5;4;4500;0
+217;0;Juan Carlos;Ferreyra;;1;4;3700;0
+218;0;Juan Pablo;Ferreyra;;5;1;600;0
+219;0;Osmar;Ferreyra;;11;3;4500;0
+220;0;Ignacio;Fideleff;;13;2;2900;0
+221;0;Tobías;Figueroa;;6;4;600;0
+222;0;Víctor;Figueroa;;13;3;4100;0
+223;0;Matías;Fissore;;4;3;1700;0
+224;0;Santiago;Fogst;;8;2;2000;0
+225;0;Fabricio;Fontanini;;4;2;3200;0
+226;0;Guillermo;Franco;;20;4;4600;0
+227;0;Guillermo;Franco;;10;2;1800;0
+228;0;Andrés;Franzoia;;14;4;3500;0
+229;0;Hernán;Fredes;;11;3;4000;0
+230;0;Federico;Freire;;20;3;400;0
+231;0;Matías;Fritzler;;12;3;4600;0
+232;0;Diego;Ftacla;;18;4;600;0
+233;0;Diego;Fuentes;;1;2;300;0
+234;0;Esteban;Fuertes;;8;4;8400;0
+235;0;Julio;Furch;;14;4;2700;0
+236;0;Adrián;Gabbarini;;11;1;4000;0
+237;0;Walter;Gaitán;;4;3;4700;0
+238;0;Marcos;Galarza;;17;2;1900;0
+239;0;Leonel;Galeano;;11;2;4300;0
+240;0;Martín;Galmarini;;18;3;3300;0
+241;0;Diego;Galván;;9;3;3700;0
+242;0;Darío;Gandín;;4;4;4800;0
+243;0;Orlando;Gaona Lugo;;7;4;1000;0
+244;0;Ariel;Garcé;;8;2;4200;0
+245;0;Diego;García;;17;4;2000;0
+246;0;Gonzalo;García;;15;2;2000;0
+247;0;Javier;García;;18;1;3700;0
+248;0;Zelmar;García;;10;2;2900;0
+249;0;Danilo;Gerlo;;3;2;3800;0
+250;0;Emmanuel;Gigliotti;;16;4;4500;0
+251;0;Matías;Giménez;;7;3;3500;0
+252;0;Dylan;Gissi;;9;2;400;0
+253;0;Fernando;Godoy;;11;3;2000;0
+254;0;Paolo Duval;Goltz;;12;2;4900;0
+255;0;Jonatan;Gómez;;5;3;4000;0
+256;0;Adrián;González;;3;2;4000;0
+257;0;Cristian;González;;13;4;400;0
+258;0;Diego;González;;12;3;2300;0
+259;0;Esteban;González;;6;3;4500;0
+260;0;Federico;González;;4;4;3700;0
+261;0;Fernando;González;;6;2;900;0
+262;0;Leandro;González;;8;4;3000;0
+263;0;Mariano ;González;;9;3;5900;0
+264;0;Sebastián;González;;16;3;2500;0
+265;0;Cristian;Grabinski;;17;2;3500;0
+266;0;Leandro;Gracián;;7;3;4000;0
+267;0;Gabriel;Graciani;;8;3;1000;0
+268;0;Claudio;Graf;;17;4;3500;0
+269;0;Hernán;Grana;;6;2;3300;0
+270;0;Franco;Grassi;;5;1;300;0
+271;0;Julián;Guillermo Rojas;;5;3;600;0
+272;0;Gastón;Guruceaga;;13;2;600;0
+273;0;Fernando;Gutiérrez;;16;3;600;0
+274;0;Teófilo;Gutiérrez;;15;4;7900;0
+275;0;Nahuel;Guzmán;;13;1;1000;0
+276;0;Gabriel;Hauche;;15;4;7300;0
+277;0;Carlos;Henneberg;;12;4;300;0
+278;0;Juan Pablo;Heredia;;6;1;500;0
+279;0;Emilio;Hernández;;2;3;3300;0
+280;0;Pablo;Hernández;;2;3;2800;0
+281;0;Federico;Higuaín;;8;4;4500;0
+282;0;Lucas;Hoyos;;13;1;600;0
+283;0;Michael;Hoyos;;9;3;2800;0
+284;0;Jefferson;Hurtado;;2;2;2500;0
+285;0;Matías;Ibáñez;;14;1;1500;0
+286;0;Nelson;Ibáñez;;10;1;3900;0
+287;0;Raúl;Iberbia;;9;2;3200;0
+288;0;Juan Martín;Imbert;;7;4;400;0
+289;0;Juan Manuel;Insaurralde;;7;2;5000;0
+290;0;Hugo;Iriarte;;4;2;2000;0
+291;0;Daniel;Islas;;18;1;4300;0
+292;0;Kevin Fabián;Itabel;;18;3;500;0
+293;0;Carlos;Izquierdoz;;12;2;3000;0
+294;0;Leonardo;Jara;;9;3;1400;0
+295;0;Pablo;Jerez;;14;2;2800;0
+296;0;Iván;Juárez;;4;3;3100;0
+297;0;Enzo;Kalinski;;16;3;3700;0
+298;0;Lucas;Kruspzky;;11;2;800;0
+299;0;Luciano;Kummer;;8;2;500;0
+300;0;Matías;Laba;;2;3;2200;0
+301;0;Santiago;Ladino;;5;2;2500;0
+302;0;Luis;Lagrutta;;4;3;1300;0
+303;0;César;Lamanna;;16;4;1900;0
+304;0;Franco;Lanaro;;18;4;400;0
+305;0;Lucas;Landa;;17;2;2100;0
+306;0;Joaquín;Laso;;18;2;300;0
+307;0;Maximiliano;Laso;;5;3;2700;0
+308;0;Cristian;Ledesma;;8;3;4000;0
+309;0;Eduardo;Ledesma;;12;3;3700;0
+310;0;Leandro;Leguizamón;;18;4;1200;0
+311;0;Luciano;Leguizamón;;3;4;4900;0
+312;0;Cristian;Lema;;18;2;1700;0
+313;0;Alejandro;Lembo;;6;2;3400;0
+314;0;Ramiro;Leone;;18;3;3900;0
+315;0;Germán;Lesman;;8;4;1600;0
+316;0;Bernardo;Leyenda;;1;1;1500;0
+317;0;Lucas;Licht;;15;2;4300;0
+318;0;Pablo;Lima;;8;2;3800;0
+319;0;Alejandro;Limia;;19;1;3300;0
+320;0;Marcos;Litre;;14;4;1300;0
+321;0;Braian;Lluy;;15;2;2500;0
+322;0;Luciano;Lollo;;6;2;2800;0
+323;0;Hernán Rodrigo;López;;5;4;4800;0
+324;0;Lisandro;López;;3;2;5600;0
+325;0;Nicolás;López;;4;4;2700;0
+326;0;Sergio;López;;10;3;2000;0
+327;0;Víctor;López;;5;2;5000;0
+328;0;Víctor David;López;;1;3;600;0
+329;0;Cristian;Lucchetti;;5;1;4600;0
+330;0;Adrián;Lucero;;14;3;3000;0
+331;0;Abel;Luciatti;;16;2;400;0
+332;0;Rodrigo;Lugo;;2;1;300;0
+333;0;Pablo;Lugüercio;;15;4;5200;0
+334;0;Carlos;Luna;;18;4;5000;0
+335;0;Sebastián;Luna;;16;2;2800;0
+336;0;Carlos;Luque;;8;4;1800;0
+337;0;Alexis;Machuca;;13;2;2400;0
+338;0;Gerardo;Maciel;;5;3;400;0
+339;0;Ezequiel;Maggiolo;;18;4;4200;0
+340;0;Pablo;Magnín;;19;4;900;0
+341;0;Mauro;Maidana;;19;2;1800;0
+342;0;Juan Carlos;Maldonado;;6;3;2700;0
+343;0;Lucas;Mancinelli;;12;2;1900;0
+344;0;Federico;Mancuello;;6;3;3000;0
+345;0;César;Mansanelli;;6;3;2800;0
+346;0;Agustín;Marchesín;;12;1;4700;0
+347;0;Iván;Marcone;;3;3;3200;0
+348;0;Leandro Lucas;Marín;;7;2;600;0
+349;0;Adrián;Martínez;;16;2;600;0
+350;0;Diego;Martínez;;16;4;2800;0
+351;0;Francisco;Martínez;;1;2;600;0
+352;0;Juan Manuel;Martínez;;20;4;13000;0
+353;0;Matías;Martínez;;15;2;4800;0
+354;0;Nicolás;Martínez;;18;2;1300;0
+355;0;Román;Martínez;;18;3;5000;0
+356;0;Emmanuel;Mas;;17;2;2300;0
+357;0;Ezequiel;Mastrolía;;16;1;300;0
+358;0;Diego;Mateo;;13;3;3800;0
+359;0;Carlos;Matheu;;11;2;4700;0
+360;0;Mauro;Matos;;1;4;4500;0
+361;0;Francisco;Mattia;;17;2;1500;0
+362;0;Juan Alberto;Mauri;;14;3;700;0
+363;0;Lucas;Melano;;6;4;300;0
+364;0;Gabriel;Méndez;;16;4;3300;0
+365;0;Jesús;Méndez;;7;3;3000;0
+366;0;Gonzalo;Menéndez;;3;2;800;0
+367;0;Lucas;Menossi;;18;3;400;0
+368;0;Juan Carlos;Menseguez;;16;4;5000;0
+369;0;Gabriel;Mercado;;9;2;5900;0
+370;0;Fernando;Meza;;16;2;2900;0
+371;0;Pablo;Migliore;;16;1;5000;0
+372;0;Pablo;Miguez;;19;3;2800;0
+373;0;Gabriel;Milito;;11;2;5800;0
+374;0;Nicolás;Millán;;18;4;1000;0
+375;0;Pablo;Miranda;;10;4;1800;0
+376;0;Fausto;Montero;;19;3;3000;0
+377;0;Maximiliano;Montero;;18;2;2300;0
+378;0;Marcelo;Montoya;;20;1;4100;0
+379;0;Diego;Morales;;18;3;5100;0
+380;0;Juan José;Morales;;2;4;3000;0
+381;0;Iván;Moreno y Fabianesi;;8;3;5500;0
+382;0;Emanuel;Moreno;;19;3;1000;0
+383;0;Giovanni;Moreno;;15;3;9300;0
+384;0;Claudio;Mosca;;3;3;3000;0
+385;0;Pablo;Mouche;;7;4;5200;0
+386;0;Gabriel Oscar;Moyano;;10;3;600;0
+387;0;Sebastián;Moyano;;10;1;400;0
+388;0;Lucas;Mugni;;8;3;600;0
+389;0;Damián;Musto;;14;3;3000;0
+390;0;Alvaro;Navarro;;10;4;3500;0
+391;0;Hilario;Navarro;;11;1;6300;0
+392;0;Leandro;Navarro;;16;3;400;0
+393;0;Juan;Neira;;12;3;4300;0
+394;0;Hugo Martín;Nervo;;3;2;3000;0
+395;0;Brian;Nieva;;11;4;800;0
+396;0;Alexis;Niz;;4;2;800;0
+397;0;Ricardo;Noir;;13;4;2500;0
+398;0;Fabricio;Núñez;;19;4;2700;0
+399;0;Leonel;Núñez;;11;4;4700;0
+400;0;Maximiliano;Núñez;;17;3;3000;0
+401;0;Gustavo;Oberman;;2;4;3000;0
+402;0;Mauro Iván;Obolo;;3;4;8100;0
+403;0;Luis;Ojeda;;2;1;3000;0
+404;0;Juan Carlos;Olave;;6;1;3600;0
+405;0;Emanuel;Olivera;;20;2;900;0
+406;0;Nicolás;Olmedo;;10;3;4500;0
+407;0;Lucas;Orban;;18;2;1500;0
+408;0;Catriel;Orcellet;;3;1;1500;0
+409;0;Agustín;Orion;;7;1;5800;0
+410;0;Néstor;Ortigoza;;16;3;8500;0
+411;0;Fernando;Ortiz;;20;2;5000;0
+412;0;Jorge;Ortiz;;3;3;4300;0
+413;0;Lucas;Oviedo;;17;3;2000;0
+414;0;Jonathan;Pacheco;;16;3;500;0
+415;0;Hugo;Padilla;;6;2;500;0
+416;0;Matías;Palavecino;;14;2;1300;0
+417;0;José Luis;Palomino;;16;2;2500;0
+418;0;Armando;Panceri;;1;2;1600;0
+419;0;Emiliano;Papa;;20;2;5200;0
+420;0;Norberto;Paparatto;;18;2;2900;0
+421;0;Leandro;Paredes;;7;4;500;0
+422;0;Lucas;Parodi;;6;3;600;0
+423;0;Facundo;Parra;;11;4;7000;0
+424;0;Elian;Parrino;;9;2;1900;0
+425;0;Pablo;Pavetti;;4;3;800;0
+426;0;Nicolás;Pavlovich;;14;4;4000;0
+427;0;Mariano;Pavone;;12;4;8000;0
+428;0;Fabricio;Pedrozo;;16;4;700;0
+429;0;Maximiliano;Pellegrino;;8;2;4400;0
+430;0;Cristian;Pellerano;;11;3;3700;0
+431;0;Hernán;Pellerano;;13;2;4500;0
+432;0;Agustín;Pelletieri;;15;3;4800;0
+433;0;Sebastián;Penco;;17;4;3800;0
+434;0;Rodrigo;Pepe;;5;3;1900;0
+435;0;Sebastián;Peratta;;13;1;5900;0
+436;0;Emanuel;Perea;;1;3;2000;0
+437;0;César;Pereyra;;6;4;3900;0
+438;0;Hernán;Pereyra;;5;3;500;0
+439;0;Juan Pablo;Pereyra;;19;4;4000;0
+440;0;Mauricio;Pereyra;;12;3;3800;0
+441;0;Matías;Pérez García;;1;3;3400;0
+442;0;Martín;Pérez Guedes;;14;3;1900;0
+443;0;Gabriel;Pérez Tarifa;;2;4;1500;0
+444;0;Alejandro;Pérez;;19;2;1800;0
+445;0;Claudio;Pérez;;6;2;2700;0
+446;0;Damián Alfredo;Pérez;;3;2;2700;0
+447;0;Jorge Iván;Pérez;;11;3;1800;0
+448;0;Leonel Marcos;Pérez;;13;3;400;0
+449;0;Marco;Pérez;;11;4;5100;0
+450;0;Pablo;Pérez;;13;3;2900;0
+451;0;Patricio;Pérez;;1;3;2800;0
+452;0;Gino;Peruzzi;;20;2;400;0
+453;0;Bruno;Pezzella;;6;3;1000;0
+454;0;Leonel;Pietkiewitz;;4;3;600;0
+455;0;Iván;Pillud;;15;2;5200;0
+456;0;Marcos;Pinto;;12;2;300;0
+457;0;Emanuel;Pío;;18;3;2400;0
+458;0;Federico;Pistone;;2;2;800;0
+459;0;Guido;Pizarro;;12;3;5100;0
+460;0;Luciano;Pocrnjic;;17;1;2900;0
+461;0;Federico;Poggi;;17;3;3700;0
+462;0;Diego;Pozo;;8;1;5000;0
+463;0;Sebastián;Prediger;;8;3;4300;0
+464;0;Mauricio;Prol;;1;3;800;0
+465;0;Gonzalo;Prósperi;;2;2;4200;0
+466;0;Ismael;Quilez;;8;2;3200;0
+467;0;Carlos;Quintana;;12;2;2000;0
+468;0;Marcelo;Quinteros;;5;3;3600;0
+469;0;Ronald;Quinteros;;19;3;3000;0
+470;0;Facundo;Quiroga;;1;2;3700;0
+471;0;Juan;Quiroga;;6;2;3200;0
+472;0;Matías;Quiroga;;19;4;3900;0
+473;0;Raúl;Quiroga;;17;3;1000;0
+474;0;Ronald;Raldes;;8;2;3800;0
+475;0;Alfredo;Ramírez;;8;3;2600;0
+476;0;David;Ramírez;;20;3;8600;0
+477;0;Jonathan;Ramírez;;20;4;2000;0
+478;0;Juan Edgardo;Ramírez;;2;3;700;0
+479;0;Julio Gonzalo;Ramírez;;16;3;800;0
+480;0;Rubén;Ramírez;;10;4;6300;0
+481;0;Franco;Razzotti;;20;3;4000;0
+482;0;Germán;Ré;;9;2;4700;0
+483;0;Mario;Regueiro;;12;3;5300;0
+484;0;Ezequiel;Rescaldani;;20;4;500;0
+485;0;Juan Cruz;Respuela;;15;3;1000;0
+486;0;Salvador;Reynoso;;16;3;2300;0
+487;0;César;Rigamonti;;6;1;800;0
+488;0;Emiliano;Rigoni;;6;3;300;0
+489;0;Leonel;Ríos;;14;3;4000;0
+490;0;Juan Román;Riquelme;;7;3;9500;0
+491;0;Ciro;Rius;;2;4;2700;0
+492;0;Diego;Rivero;;7;3;4600;0
+493;0;Marcos;Riveros;;13;3;3000;0
+494;0;Emison;Roberval;;17;4;2300;0
+495;0;Leonardo;Roda;;17;4;1900;0
+496;0;Andrés;Rodales;;18;2;3200;0
+497;0;Germán;Rodríguez Rojas;;4;3;600;0
+498;0;Clemente;Rodríguez;;7;2;4800;0
+499;0;Diego;Rodríguez;;11;1;800;0
+500;0;Gonzalo;Rodríguez;;2;4;300;0
+501;0;Juan Pablo;Rodríguez;;1;3;3900;0
+502;0;Lucas;Rodríguez;;2;2;600;0
+503;0;Patricio;Rodríguez;;11;3;5000;0
+504;0;Ribair;Rodríguez;;6;3;3300;0
+505;0;Ariel;Rojas;;10;3;4400;0
+506;0;Martín;Rolle;;14;3;4200;0
+507;0;Leandro;Romagnoli;;16;3;5800;0
+508;0;Bernardo;Romeo;;16;4;3100;0
+509;0;Andrés;Romero;;2;4;1500;0
+510;0;Emiliano;Romero;;14;4;2100;0
+511;0;Jonatan;Romero;;18;2;400;0
+512;0;Silvio;Romero;;12;4;5100;0
+513;0;Facundo;Roncaglia;;7;2;4100;0
+514;0;Ariel;Rosada;;14;3;3800;0
+515;0;Pablo;Rosales;;9;2;400;0
+516;0;Paulo;Rosales;;19;3;3000;0
+517;0;Pablo;Rúdisi;;6;2;700;0
+518;0;Matias Ezequiel;Rudler;;1;3;500;0
+519;0;Henry;Rui;;1;4;400;0
+520;0;Enzo Adrián;Ruiz;;7;2;900;0
+521;0;Pablo;Ruiz;;10;4;1500;0
+522;0;Roberto;Russo;;10;2;3300;0
+523;0;Raúl;Saavedra;;17;2;3000;0
+524;0;Juan;Sabia;;2;2;3900;0
+525;0;Joel;Sacks;;4;2;800;0
+526;0;Nicolás;Sainz;;15;2;1000;0
+527;0;Sebastián;Saja;;15;1;5800;0
+528;0;Franklin;Salas;;10;4;3800;0
+529;0;Santiago;Salcedo;;2;4;4700;0
+530;0;Juan;Salgueiro;;16;4;5200;0
+531;0;Carlos;Salom;;1;4;2000;0
+532;0;José;San Román;;16;2;2600;0
+533;0;Juan Manuel;Sánchez Miño;;19;3;600;0
+534;0;Fernando;Sánchez;;1;3;3000;0
+535;0;Guillermo;Sánchez;;14;2;900;0
+536;0;Matías;Sánchez;;9;3;3000;0
+537;0;Nicolás;Sánchez;;10;2;4700;0
+538;0;Sergio;Sánchez;;10;3;1500;0
+539;0;Damián;Santagatti;;19;2;600;0
+540;0;Pablo;Santillo;;5;1;2500;0
+541;0;Guillermo;Sara;;4;1;3000;0
+542;0;Brian;Sarmiento;;15;4;2000;0
+543;0;Marcelo;Sarmiento;;19;3;3200;0
+544;0;Matías;Sarulyte;;9;2;1900;0
+545;0;Gastón;Sauro;;7;2;1700;0
+546;0;Mauricio;Scaglia;;13;2;400;0
+547;0;Juan Pablo;Scheffer;;14;2;1700;0
+548;0;Rolando;Schiavi;;7;2;5500;0
+549;0;Favio;Segovia;;5;2;1600;0
+550;0;Sergio;Sena;;3;3;3100;0
+551;0;Walter;Serrano;;4;3;2700;0
+552;0;Matías;Sierra;;3;3;600;0
+553;0;Leonardo;Sigali;;10;2;4600;0
+554;0;Juan Ignacio;Sills;;20;2;500;0
+555;0;Agustín;Silva;;9;1;300;0
+556;0;Santiago;Silva;;20;4;13000;0
+557;0;Andrés;Silvera;;6;4;6700;0
+558;0;Luis;Solignac;;5;4;2000;0
+559;0;Leandro;Somoza;;7;3;4800;0
+560;0;Diego;Sosa;;17;2;1300;0
+561;0;Franco;Sosa;;7;2;4100;0
+562;0;Sebastián;Sosa;;7;1;3500;0
+563;0;Matías;Soto Torres;;19;3;900;0
+564;0;Carlos;Soto;;1;2;2800;0
+565;0;Santiago;Soto;;8;3;1200;0
+566;0;Mauricio;Sperduti;;13;3;5800;0
+567;0;Darío;Stefanatto;;1;3;2300;0
+568;0;Gastón;Suárez;;6;3;300;0
+569;0;Pedro;Suárez;;19;2;1000;0
+570;0;Nicolás;Tagliafico;;5;2;1700;0
+571;0;Juan;Tejera;;14;2;2500;0
+572;0;Emiliano;Tellechea;;16;3;3200;0
+573;0;Fernando;Tobio;;20;2;3600;0
+574;0;Gustavo;Toledo;;5;2;2200;0
+575;0;Laureano;Tombolini;;14;1;4000;0
+576;0;Martín;Tonso;;13;3;1700;0
+577;0;Patricio;Toranzo;;15;3;6700;0
+578;0;Agustín;Torassa;;1;4;2700;0
+579;0;Miguel;Torrén;;2;2;3000;0
+580;0;Adrián;Torres;;10;3;1300;0
+581;0;Aureliano;Torres;;16;2;4500;0
+582;0;Bernardo;Torres;;6;3;600;0
+583;0;Diego;Torres;;3;4;2800;0
+584;0;Sebastián;Torrico;;10;1;4800;0
+585;0;Cristian;Trombetta;;3;2;2100;0
+586;0;Cristian;Tula;;16;2;4800;0
+587;0;Federico;Tursi;;18;1;300;0
+588;0;Gastón;Turus;;6;2;2900;0
+589;0;Eduardo;Tuzzio;;11;2;5000;0
+590;0;Bruno;Urribarri;;8;2;2900;0
+591;0;Maximiliano;Urruti;;13;4;1500;0
+592;0;Matías;Valdez;;12;2;1000;0
+593;0;Carmelo;Valencia;;13;4;3000;0
+594;0;Diego;Valeri;;12;3;8500;0
+595;0;Jonathan;Valle;;13;2;500;0
+596;0;Gabriel;Vallés;;11;2;2800;0
+597;0;Leonel;Vangioni;;13;3;3800;0
+598;0;Cristian;Varela;;1;2;2000;0
+599;0;Franco;Vázquez;;6;3;3800;0
+600;0;David;Vega;;14;3;3000;0
+601;0;Maximiliano;Velasco;;13;4;900;0
+602;0;Jorge;Velázquez;;19;3;2900;0
+603;0;Julián;Velázquez;;11;2;3900;0
+604;0;Leandro;Velázquez;;20;3;2800;0
+605;0;Maximiliano;Velázquez;;11;2;3900;0
+606;0;José;20;;11;2;3000;0
+607;0;Cristian;Vella;;1;2;2800;0
+608;0;Renzo;Vera;;19;2;2600;0
+609;0;Santiago;Vergini;;13;2;3000;0
+610;0;Juan Sebastián;Verón;;9;3;12000;0
+611;0;Lucas;Viatri;;7;4;5100;0
+612;0;Sebastián;Vidal;;19;3;2900;0
+613;0;Juan;Vieyra;;13;3;600;0
+614;0;Lucas;Villafáñez;;11;3;2100;0
+615;0;Hernán;Villalba;;13;3;2200;0
+616;0;Cristian;Villanueva;;14;2;1900;0
+617;0;Diego;Villar;;10;3;4600;0
+618;0;Justo;Villar;;9;1;6500;0
+619;0;Valentín;Viola;;15;4;1900;0
+620;0;Darío;Vitelli;;6;2;300;0
+621;0;Oswaldo;Vizcarrondo;;14;2;3700;0
+622;0;Germán;Voboril;;10;2;2500;0
+623;0;Agustín;Vuletich;;20;4;1000;0
+624;0;Martín;Wagner;;17;3;3000;0
+625;0;Claudio;Yacob;;15;3;4600;0
+626;0;Walter;Yacob;;19;2;2000;0
+627;0;Rubén;Zamponi;;17;2;2400;0
+628;0;Duván;Zapata;;9;4;1900;0
+629;0;Martín;Zapata;;1;3;2300;0
+630;0;Víctor;Zapata;;20;3;6200;0
+631;0;Martín;Zbrun;;4;2;2500;0
+632;0;Matías;Zbrun;;4;4;1500;0
+633;0;Emilio;Zelaya;;3;4;4100;0
+634;0;Bruno;Zuculini;;15;3;2100;0
+635;0;Santiago;Zurbriggen;;19;2;1800;0

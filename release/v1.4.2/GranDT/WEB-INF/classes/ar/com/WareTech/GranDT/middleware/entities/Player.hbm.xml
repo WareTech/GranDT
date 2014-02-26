@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="ar.com.WareTech.GranDT.middleware.entities.Player" table="player">
+		<id name="id" type="java.lang.Long" >
+			<generator class="native" />
+		</id>
+		<version name="version"  type="java.lang.Long"/>
+		<property name="firstname" type="java.lang.String" length="255" not-null="true"/>
+		<property name="lastname" type="java.lang.String" length="255" not-null="true"/>
+		<property name="number" type="java.lang.Integer" length="2"/>
+		<property name="value" type="java.lang.String" length="255" not-null="true"/>
+		<property name="selected" type="java.lang.Boolean" not-null="true"/>
+		<many-to-one name="club" class="ar.com.WareTech.GranDT.middleware.entities.Club" not-null="true" />
+		<many-to-one name="position" class="ar.com.WareTech.GranDT.middleware.entities.PlayerPosition" not-null="true" />
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,210 @@
+Fecha  Torneo  Apertura 2009: 1° (16/8)
+Gimnasia y Esgrima (La Plata) 	Godoy Cruz (Mendoza)
+Independiente	Newell's Old Boys
+San Lorenzo		Atletico Tucumán
+Chacarita Jrs.		Tigre
+Arsenal			Estudiantes (La Plata)
+Rosario Central			Racing Club
+Huracán			Lanús
+Boca Jrs.			Argentinos Jrs.
+Banfield		River Plate
+Colón (Santa Fé)			Vélez Sarsfield
+Fecha  Torneo  Apertura 2009: 2° (23/8)
+Racing Club 	Colón (Santa Fé)
+Tigre 	Rosario Central
+River Plate 	Chacarita Jrs.
+Argentinos Jrs. 	Banfield
+Lanús 	Boca Jrs.
+Newell's Old Boys 	Huracán
+Atletico Tucumán 	Independiente
+Godoy Cruz (Mendoza) 	San Lorenzo
+Estudiantes (La Plata) 	Gimnasia y Esgrima (La Plata)
+Vélez Sarsfield 	Arsenal
+Fecha Torneo Apertura 2009: 3° (30/8)
+Independiente 	Godoy Cruz (Mendoza)
+Huracán 	Atletico Tucumán
+Boca Jrs. 	Newell's Old Boys
+Argentinos Jrs. 	Lanús
+Banfield 	Chacarita Jrs.
+Rosario Central 	River Plate
+Colón (Santa Fé) 	Tigre
+Arsenal 	Racing Club
+Gimnasia y Esgrima (La Plata) 	Vélez Sarsfield
+San Lorenzo 	Estudiantes (La Plata)
+Fecha Torneo Apertura 2009: 4° (2/9)
+Racing Club 	Gimnasia y Esgrima (La Plata)
+Tigre 	Arsenal
+River Plate 	Colón (Santa Fé)
+Chacarita Jrs. 	Rosario Central
+Lanús 	Banfield
+Newell's Old Boys 	Argentinos Jrs.
+Atletico Tucumán 	Boca Jrs.
+Godoy Cruz (Mendoza) 	Huracán
+Estudiantes (La Plata) 	Independiente
+Vélez Sarsfield 	San Lorenzo
+Fecha Torneo Apertura 2009: 5° (13/9)
+Independiente 	Vélez Sarsfield
+Huracán 	Estudiantes (La Plata)
+Boca Jrs. 	Godoy Cruz (Mendoza)
+Argentinos Jrs. 	Atletico Tucumán
+Lanús 	Newell's Old Boys
+Rosario Central 	Banfield
+Colón (Santa Fé) 	Chacarita Jrs.
+Arsenal 	River Plate
+Gimnasia y Esgrima (La Plata) 	Tigre
+San Lorenzo 	Racing Club
+Fecha Torneo Apertura 2009: 6° (20/9)
+Racing Club 	Independiente
+Tigre 	San Lorenzo
+River Plate 	Gimnasia y Esgrima (La Plata)
+Chacarita Jrs. 	Arsenal
+Banfield 	Newell's Old Boys
+Rosario Central 	Colón (Santa Fé)
+Atletico Tucumán 	Lanús
+Godoy Cruz (Mendoza) 	Argentinos Jrs.
+Estudiantes (La Plata) 	Boca Jrs.
+Vélez Sarsfield 	Huracán
+Fecha Torneo Apertura 2009: 7° (27/9)
+Independiente 	Tigre
+Huracán 	Racing Club
+Boca Jrs. 	Vélez Sarsfield
+Argentinos Jrs. 	Estudiantes (La Plata)
+Lanús 	Godoy Cruz (Mendoza)
+Newell's Old Boys 	Atletico Tucumán
+Colón (Santa Fé) 	Banfield
+Arsenal 	Rosario Central
+Gimnasia y Esgrima (La Plata) 	Chacarita Jrs.
+San Lorenzo 	River Plate
+Fecha Torneo Apertura 2009: 8° (4/10)
+Racing Club 	Boca Jrs.
+Tigre 	Huracán
+River Plate 	Independiente
+Chacarita Jrs. 	San Lorenzo
+Banfield 	Atletico Tucumán
+Rosario Central 	Gimnasia y Esgrima (La Plata)
+Colón (Santa Fé) 	Arsenal
+Godoy Cruz (Mendoza) 	Newell's Old Boys
+Estudiantes (La Plata) 	Lanús
+Vélez Sarsfield 	Argentinos Jrs.
+Fecha Torneo Apertura 2009: 9° (7/10)
+Independiente 	Chacarita Jrs.
+Huracán 	River Plate
+Boca Jrs. 	Tigre
+Argentinos Jrs. 	Racing Club
+Lanús 	Vélez Sarsfield
+Newell's Old Boys 	Estudiantes (La Plata)
+Atletico Tucumán 	Godoy Cruz (Mendoza)
+Arsenal 	Banfield
+Gimnasia y Esgrima (La Plata) 	Colón (Santa Fé)
+San Lorenzo
+	Rosario Central
+Fecha Torneo Apertura 2009: 10° (18/10)
+Racing Club 	Lanús
+Tigre 	Argentinos Jrs.
+River Plate 	Boca Jrs.
+Chacarita Jrs. 	Huracán
+Banfield 	Godoy Cruz (Mendoza)
+Rosario Central 	Independiente
+Colón (Santa Fé) 	San Lorenzo
+Arsenal 	Gimnasia y Esgrima (La Plata) 
+Estudiantes (La Plata) 	Atletico Tucumán
+Vélez Sarsfield 	Newell's Old Boys
+Fecha Torneo Apertura 2009: 11° (25/10)
+Independiente 	Colón (Santa Fé)
+Huracán 	Rosario Central
+Boca Jrs. 	Chacarita Jrs.
+Argentinos Jrs. 	River Plate
+Lanús 	Tigre
+Newell's Old Boys 	Racing Club
+Atletico Tucumán 	Vélez Sarsfield
+Godoy Cruz (Mendoza) 	Estudiantes (La Plata)
+Gimnasia y Esgrima (La Plata) 	Banfield
+San Lorenzo 	Arsenal
+Fecha Torneo Apertura 2009: 12° (28/10)
+Racing Club 	Atletico Tucumán
+Tigre 	Newell's Old Boys
+River Plate 	Lanús
+Chacarita Jrs. 	Argentinos Jrs.
+Banfield 	Estudiantes (La Plata)
+Rosario Central 	Boca Jrs.
+Colón (Santa Fé) 	Huracán
+Arsenal 	Independiente
+Gimnasia y Esgrima (La Plata) 	San Lorenzo
+Vélez Sarsfield 	Godoy Cruz (Mendoza)
+Fecha Torneo Apertura 2009: 13° (1/11)
+Independiente 	Gimnasia y Esgrima (La Plata)
+Huracán 	Arsenal
+Boca Jrs. 	Colón (Santa Fé)
+Argentinos Jrs. 	Rosario Central
+Lanús 	Chacarita Jrs.
+Newell's Old Boys 	River Plate
+Atletico Tucumán 	Tigre
+Godoy Cruz (Mendoza) 	Racing Club
+Estudiantes (La Plata) 	Vélez Sarsfield
+San Lorenzo 	Banfield
+Fecha Torneo Apertura 2009: 14° (8/11)
+Racing Club 	Estudiantes (La Plata)
+Tigre 	Godoy Cruz (Mendoza)
+River Plate 	Atletico Tucumán
+Chacarita Jrs. 	Newell's Old Boys
+Banfield 	Vélez Sarsfield
+Rosario Central 	Lanús
+Colón (Santa Fé) 	Argentinos Jrs.
+Arsenal 	Boca Jrs.
+Gimnasia y Esgrima (La Plata) 	Huracán
+San Lorenzo 	Independiente
+Fecha Torneo Apertura 2009: 15° (15/11)
+Independiente 	Banfield
+Huracán 	San Lorenzo
+Boca Jrs. 	Gimnasia y Esgrima (La Plata)
+Argentinos Jrs. 	Arsenal
+Lanús 	Colón (Santa Fé)
+Newell's Old Boys 	Rosario Central
+Atletico Tucumán 	Chacarita Jrs.
+Godoy Cruz (Mendoza) 	River Plate
+Estudiantes (La Plata) 	Tigre
+Vélez Sarsfield 	Racing Club
+Fecha Torneo Apertura 2009: 16° (22/11)
+Independiente 	Huracán
+Tigre 	Vélez Sarsfield
+River Plate 	Estudiantes (La Plata)
+Chacarita Jrs. 	Godoy Cruz (Mendoza)
+Banfield 	Racing Club
+Rosario Central 	Atletico Tucumán
+Colón (Santa Fé) 	Newell's Old Boys
+Arsenal 	Lanús
+Gimnasia y Esgrima (La Plata) 	Argentinos Jrs.
+San Lorenzo 	Boca Jrs.
+Fecha Torneo Apertura 2009: 17° (29/11)
+Racing Club 	Tigre
+Huracán 	Banfield
+Boca Jrs. 	Independiente
+Argentinos Jrs. 	San Lorenzo
+Lanús 	Gimnasia y Esgrima (La Plata)
+Newell's Old Boys 	Arsenal
+Atletico Tucumán 	Colón (Santa Fé)
+Godoy Cruz (Mendoza) 	Rosario Central
+Estudiantes (La Plata) 	Chacarita Jrs.
+Vélez Sarsfield 	River Plate
+Fecha Torneo Apertura 2009: 18° (6/12)
+Independiente 	Argentinos Jrs.
+Huracán 	Boca Jrs.
+River Plate 	Racing Club
+Chacarita Jrs. 	Vélez Sarsfield
+Banfield 	Tigre
+Rosario Central 	Estudiantes (La Plata)
+Colón (Santa Fé) 	Godoy Cruz (Mendoza)
+Arsenal 	Atletico Tucumán
+Gimnasia y Esgrima (La Plata) 	Newell's Old Boys
+San Lorenzo 	Lanús
+Fecha Torneo Apertura 2009: 19° (13/12)
+Racing Club 	Chacarita Jrs.
+Tigre 	River Plate
+Boca Jrs. 	Banfield
+Argentinos Jrs. 	Huracán
+Lanús 	Independiente
+Newell's Old Boys 	San Lorenzo
+Atletico Tucumán 	Gimnasia y Esgrima (La Plata)
+Godoy Cruz (Mendoza) 	Arsenal
+Estudiantes (La Plata) 	Colón (Santa Fé)
+Vélez Sarsfield 	Rosario Central

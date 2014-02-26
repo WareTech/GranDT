@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="ar.com.WareTech.GranDT.middleware.entities.CupGroupTeam" table="cupgroupteam">
+		<id name="id" type="java.lang.Long" >
+			<generator class="native" />
+		</id>
+		<version name="version"  type="java.lang.Long"/>
+		<many-to-one name="team" class="ar.com.WareTech.GranDT.middleware.entities.Team" not-null="true" />
+		<many-to-one name="group" column="group_" class="ar.com.WareTech.GranDT.middleware.entities.CupGroup" not-null="true" />
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="ar.com.WareTech.GranDT.middleware.entities.PlayerTeamWeek" table="playerteamweek">
+		<id name="id" type="java.lang.Long" >
+			<generator class="native" />
+		</id>
+		<version name="version"  type="java.lang.Long"/>
+		<many-to-one name="playerteam" class="ar.com.WareTech.GranDT.middleware.entities.PlayerTeam" not-null="true" />
+		<many-to-one name="week" class="ar.com.WareTech.GranDT.middleware.entities.Week" not-null="true" />
+		<property name="points" type="java.lang.Double"/>
+		<property name="plays" type="java.lang.Boolean"/>
+	</class>
+</hibernate-mapping>

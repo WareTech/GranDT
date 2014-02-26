@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="ar.com.WareTech.GranDT.middleware.entities.CupPhase" table="cupphase">
+		<id name="id" type="java.lang.Long" >
+			<generator class="native" />
+		</id>
+		<version name="version"  type="java.lang.Long"/>
+		<property name="name" type="java.lang.String" length="255" not-null="true" unique="true"/>
+		<property name="type" type="java.lang.Integer" not-null="true"/>
+		<many-to-one name="nextPhase" class="ar.com.WareTech.GranDT.middleware.entities.CupPhase" not-null="true" />
+		<set name="groupSet" lazy="true" inverse="true" cascade="none" order-by="id">
+			<key>
+            	<column name="phase" />
+            </key>
+            <one-to-many class="ar.com.WareTech.GranDT.middleware.entities.CupGroup" />
+        </set>
+	</class>
+</hibernate-mapping>

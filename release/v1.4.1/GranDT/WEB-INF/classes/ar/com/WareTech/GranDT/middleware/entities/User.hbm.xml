@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="ar.com.WareTech.GranDT.middleware.entities.User" table="user">
+		<id name="id" type="java.lang.Long" >
+			<generator class="native" />
+		</id>
+		<version name="version"  type="java.lang.Long"/>
+		<property name="username" type="java.lang.String" length="255" not-null="true" unique="true"/>
+		<property name="password" type="java.lang.String" length="255" not-null="true" />
+		<property name="firstname" type="java.lang.String" length="255" not-null="true" />
+		<property name="lastname" type="java.lang.String" length="255" not-null="true" />
+		<property name="email" type="java.lang.String" length="255" not-null="true" />
+		<one-to-one name="team" class="ar.com.WareTech.GranDT.middleware.entities.Team" fetch="select"/>
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="ar.com.WareTech.GranDT.middleware.entities.Club" table="club">
+		<id name="id" type="java.lang.Long" >
+			<generator class="native" />
+		</id>
+		<version name="version"  type="java.lang.Long"/>
+		<property name="name" type="java.lang.String" length="255" not-null="true" unique="true"/>
+		<set name="playerSet" lazy="true" inverse="true" cascade="none" order-by="id">
+			<key>
+            	<column name="club" />
+            </key>
+            <one-to-many class="ar.com.WareTech.GranDT.middleware.entities.Player" />
+        </set>
+	</class>
+</hibernate-mapping>
