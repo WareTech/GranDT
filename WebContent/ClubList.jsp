@@ -7,7 +7,6 @@
 <%
 int colspan = 2;
 
-Database.getCurrentSession().beginTransaction();
 Criteria clubCriteria = Database.getCurrentSession().createCriteria(Club.class);
 clubCriteria.addOrder(Order.asc("name"));
 List clubList = clubCriteria.list();
@@ -84,6 +83,3 @@ else
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

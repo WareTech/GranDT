@@ -5,8 +5,6 @@
 <%@page import="ar.com.WareTech.GranDT.backend.Database"%>
 <%@page import="ar.com.WareTech.GranDT.middleware.entities.*"%>
 <%
-Database.getCurrentSession().beginTransaction();
-
 Iterator playerIterator = Database.getCurrentSession().createCriteria(Player.class).list().iterator();
 Player player = null;
 while (playerIterator.hasNext())
@@ -16,6 +14,4 @@ while (playerIterator.hasNext())
 	
 	
 }
-
-Database.getCurrentSession().getTransaction().commit();
 %>

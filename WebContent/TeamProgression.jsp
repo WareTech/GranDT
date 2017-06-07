@@ -4,8 +4,6 @@
 <%@page import="ar.com.WareTech.GranDT.backend.Database"%>
 <%@page import="ar.com.WareTech.GranDT.middleware.entities.*"%>
 <%
-Database.getCurrentSession().beginTransaction();
-
 String teamId = request.getParameter("team");
 Team team = (Team) Database.getCurrentSession().get(
 		Team.class, 
@@ -165,6 +163,3 @@ while(weekIterator.hasNext())
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

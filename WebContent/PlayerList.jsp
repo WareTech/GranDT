@@ -7,7 +7,6 @@
 <%
 int colspan = 6;
 
-Database.getCurrentSession().beginTransaction();
 Criteria playerCriteria = Database.getCurrentSession().createCriteria(Player.class);
 
 PlayerPosition playerPosition = null;
@@ -181,6 +180,3 @@ else
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

@@ -7,7 +7,6 @@
 <%
 int colspan = 2;
 
-Database.getCurrentSession().beginTransaction();
 Criteria weekCriteria = Database.getCurrentSession().createCriteria(Week.class);
 weekCriteria.addOrder(Order.asc("number"));
 List weekList = weekCriteria.list();
@@ -92,6 +91,3 @@ else
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

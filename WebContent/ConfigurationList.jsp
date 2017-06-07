@@ -8,8 +8,6 @@
 int colspan = 3;
 int configurationCount = 0;	
 
-Database.getCurrentSession().beginTransaction();
-
 Configuration configuration = null;
 if (request.getParameter("edit") != null)
 {
@@ -210,6 +208,3 @@ else
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

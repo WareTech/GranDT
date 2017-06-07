@@ -27,16 +27,32 @@ if (request.getParameter("login") != null)
 	client.executeMethod(authget);
 	if (authget.getStatusCode() == 200)
 	{
+		System.out.println("if (authget.getStatusCode() == 200)");
+		
 		authget.releaseConnection();
 
-		StringBuffer stringBuffer = new StringBuffer();
+		authget = new GetMethod("/grandt/buscarJugadores.htm?paginaActual=3&idClub=&cotDesde=0&cotHasta=&idPosicion=&orden=");
+		
+		client.executeMethod(authget);
+		if (authget.getStatusCode() != 200)
+		{
+			System.out.println("if (authget.getStatusCode() == 200)");
+			return;
+		}
+		
+		String responseBody = authget.getResponseBodyAsString();
+		System.out.println(responseBody);
+
+/* 		StringBuffer stringBuffer = new StringBuffer();
 		// Apellido, Nombre, Club, Posicion, Valor
 		stringBuffer.append("APELLIDO;NOMBRE;CLUB;POSICION;VALOR\n");
 		
 		int pageIndex = 1;
 		while(true)
 		{
-			authget = new GetMethod("/grandt/buscarJugadores.htm?paginaActual=" + pageIndex);
+			//authget = new GetMethod("/grandt/buscarJugadores.htm?paginaActual=" + pageIndex);
+			authget = new GetMethod("/grandt/buscarJugadores.htm?paginaActual=3&idClub=&cotDesde=0&cotHasta=&idPosicion=&orden=");
+			
 			client.executeMethod(authget);
 			if (authget.getStatusCode() != 200)
 			{
@@ -44,6 +60,8 @@ if (request.getParameter("login") != null)
 			}
 			
 			String responseBody = authget.getResponseBodyAsString();
+			System.out.println(responseBody);
+			
 			if (responseBody.indexOf("#") == -1)
 			{
 				break;
@@ -86,7 +104,7 @@ if (request.getParameter("login") != null)
 		ServletOutputStream ouputStream = response.getOutputStream();
 		ouputStream.write(stringBuffer.toString().getBytes(), 0, stringBuffer.length());
 		ouputStream.flush();
-		ouputStream.close();
+		ouputStream.close(); */
 
 	}
 	else

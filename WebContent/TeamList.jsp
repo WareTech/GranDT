@@ -5,8 +5,6 @@
 <%@page import="ar.com.WareTech.GranDT.backend.Database"%>
 <%@page import="ar.com.WareTech.GranDT.middleware.entities.*"%>
 <%
-Database.getCurrentSession().beginTransaction();
-
 int colspan = 4;
 
 Criteria teamCriteria = Database.getCurrentSession().createCriteria(Team.class);
@@ -118,6 +116,3 @@ else
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

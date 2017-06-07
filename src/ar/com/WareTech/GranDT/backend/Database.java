@@ -1,15 +1,10 @@
 package ar.com.WareTech.GranDT.backend;
 
-import java.util.Iterator;
-
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
 import ar.com.WareTech.GranDT.middleware.entities.Change;
-import ar.com.WareTech.GranDT.middleware.entities.CupGroup;
-import ar.com.WareTech.GranDT.middleware.entities.CupGroupTeam;
-import ar.com.WareTech.GranDT.middleware.entities.CupPhase;
 import ar.com.WareTech.GranDT.middleware.entities.Player;
 import ar.com.WareTech.GranDT.middleware.entities.Team;
 import ar.com.WareTech.GranDT.middleware.entities.User;

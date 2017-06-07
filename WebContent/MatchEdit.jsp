@@ -9,7 +9,6 @@
 int colspan = 17;
 int maxGoalsCount = 11;
 final Double[] olePointsList = {new Double(10D), new Double(9.5D),  new Double(9D), new Double(8.5D),  new Double(8D), new Double(7.5D), new Double(7D), new Double(6.5D),  new Double(6D), new Double(5.5D),  new Double(5D), new Double(4.5D),  new Double(4D), new Double(3.5D),  new Double(3D), new Double(2.5D),  new Double(2D), new Double(1.5D), new Double(1D), new Double(0.5D), new Double(0D)};
-Database.getCurrentSession().beginTransaction();
 
 boolean authorized = this.checkAuthorization(session, "MatchEdit.jsp!enabled");
 
@@ -546,6 +545,3 @@ else
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

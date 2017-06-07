@@ -12,7 +12,6 @@ String teamString = request.getParameter("team");
 
 User user = this.getUser(session);
 
-Database.getCurrentSession().beginTransaction();
 Team team = (Team) Database.getCurrentSession().get(Team.class, new Long(teamString));
 
 if (request.getParameter("change") != null)
@@ -594,6 +593,3 @@ boolean tournamentStarted = Boolean.valueOf((String) ApplicationContext.getInsta
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

@@ -8,7 +8,6 @@
 int colspan = 2;
 int rouwCount = 0;
 
-Database.getCurrentSession().beginTransaction();
 Criteria categoryCriteria = Database.getCurrentSession().createCriteria(Category.class);
 categoryCriteria.addOrder(Order.asc("id"));
 List categoryList = categoryCriteria.list();
@@ -93,6 +92,3 @@ else
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

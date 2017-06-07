@@ -5,8 +5,6 @@
 int colspan = 2;
 int rouwCount = 0;
 
-Transaction transaction = Database.getCurrentSession().beginTransaction();
-
 String weekId = (String) ApplicationContext.getInstance().get(ApplicationContext.CURRENT_WEEK);
 %>
 <html>
@@ -190,6 +188,3 @@ if (this.checkAuthorization(session, "EMailSend.jsp"))
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-transaction.commit();
-%>

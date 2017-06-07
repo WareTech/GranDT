@@ -7,7 +7,6 @@
 <%
 int colspan = 3;
 
-Database.getCurrentSession().beginTransaction();
 Criteria userCriteria = Database.getCurrentSession().createCriteria(User.class);
 userCriteria.addOrder(Order.asc("lastname")).addOrder(Order.asc("firstname"));
 List userList = userCriteria.list();
@@ -111,6 +110,3 @@ else
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

@@ -7,8 +7,6 @@
 <%
 int colspan = 2;
 
-Database.getCurrentSession().beginTransaction();
-
 if (request.getParameter("tournamentStart") != null)
 {
 	Database.getCurrentSession().createSQLQuery(
@@ -194,6 +192,3 @@ boolean tournamentStarted = Boolean.valueOf((String) ApplicationContext.getInsta
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

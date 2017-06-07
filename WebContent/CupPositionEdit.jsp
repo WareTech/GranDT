@@ -8,8 +8,6 @@
 <%@page import="ar.com.WareTech.GranDT.middleware.services.Calculator"%>
 
 <%
-Database.getCurrentSession().beginTransaction();
-
 Configuration configuration = (Configuration) Database.getCurrentSession().get(Configuration.class, Configuration.STARTED);
 if (configuration == null || !new Boolean(configuration.getValue()).booleanValue())
 {
@@ -181,6 +179,3 @@ while (cupGroupPositionTeamWeekIterator.hasNext())
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

@@ -36,9 +36,7 @@ if (request.getParameter("accept") != null)
 		claim.setDate(new Date());
 		claim.setState(new Integer(0));
 		
-		Database.getCurrentSession().beginTransaction();
 		Database.getCurrentSession().save(claim);
-		Database.getCurrentSession().getTransaction().commit();
 		
 		this.addMessage(session, "Reclamo guardado");
 		this.sendMail(

@@ -9,7 +9,6 @@ int colspan = 4;
 
 String weekString = request.getParameter("week");
 
-Transaction transaction = Database.getCurrentSession().beginTransaction();
 Week week = (Week) Database.getCurrentSession().get(Week.class, new Long(weekString));
 
 if (request.getParameter("calculate") != null)
@@ -181,6 +180,3 @@ while (matchIterator.hasNext())
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-transaction.commit();
-%>

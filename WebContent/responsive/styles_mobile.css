@@ -1,0 +1,9 @@
+/* Larger than mobile */
+@media (min-width: 400px) {
+	.u-full-width thead tr th {
+		background-color: yellow;
+	}
+	.column {
+		width: 400px;
+	}
+}

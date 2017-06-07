@@ -3,9 +3,6 @@
 <%
 int colspan = 6;
 int rouwCount = 0;
-
-Database.getCurrentSession().beginTransaction();
-
 %>
 <html>
 	<head>
@@ -96,6 +93,3 @@ while (resultIterator.hasNext())
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

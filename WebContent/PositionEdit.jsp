@@ -12,8 +12,6 @@ int rowIndex = 0;
 
 String weekString = request.getParameter("week");
 
-Database.getCurrentSession().beginTransaction();
-
 Configuration configuration = (Configuration) Database.getCurrentSession().get(Configuration.class, new Long(1));
 if (configuration == null || !new Boolean(configuration.getValue()).booleanValue())
 {
@@ -177,6 +175,3 @@ while(categoryIterator.hasNext())
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

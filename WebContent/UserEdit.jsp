@@ -7,8 +7,6 @@
 <%@page import="javax.mail.*"%>
 <%@page import="javax.mail.internet.*"%>
 <%
-Database.getCurrentSession().beginTransaction();
-
 boolean authorized = this.checkAuthorization(session, "UserEdit.jsp!update");
 
 String userId = request.getParameter("user");
@@ -355,6 +353,3 @@ while(userAccessIterator.hasNext())
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

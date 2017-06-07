@@ -12,14 +12,12 @@ int rowIndex = 1;
 
 String teamString = request.getParameter("team");
 
-Database.getCurrentSession().beginTransaction();
 Team team = (Team) Database.getCurrentSession().get(Team.class, new Long(teamString));
 
 Configuration configuration = (Configuration) Database.getCurrentSession().get(Configuration.class, new Long(1));
 if (configuration != null && "true".equalsIgnoreCase(configuration.getValue()))
 {
 	this.addError(session, "El torneo ya ha comenzado, y no se pueden efectuar modificaciones a los equipos");
-	Database.getCurrentSession().getTransaction().commit();
 	response.sendRedirect("TeamList.jsp");
 	return;
 }
@@ -109,8 +107,6 @@ else if (request.getParameter("close") != null)
 			text.append("\n");
 		}
 		
-		Database.getCurrentSession().getTransaction().commit();
-
 		this.sendMailToUser(
 				session, 
 				team.getUser(), 
@@ -581,9 +577,6 @@ while(playerIterator.hasNext())
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>
 <%!
 //------------------------------------------------------------------------------------------------
 public void update(

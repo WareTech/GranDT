@@ -3,8 +3,6 @@
 <%
 int colspan = 2;
 
-Database.getCurrentSession().beginTransaction();
-
 if (request.getParameter("send") != null)
 {
 	this.sendMailToAll(
@@ -70,6 +68,3 @@ if (request.getParameter("send") != null)
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

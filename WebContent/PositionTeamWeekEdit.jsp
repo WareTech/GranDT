@@ -10,8 +10,6 @@ int rowIndex = 0;
 
 String positionTeamWeekString = request.getParameter("positionTeamWeek");
 
-Database.getCurrentSession().beginTransaction();
-
 PositionTeamWeek positionTeamWeek = (PositionTeamWeek) Database.getCurrentSession().get(PositionTeamWeek.class, new Long(positionTeamWeekString));
 %>
 <html>
@@ -171,6 +169,3 @@ else
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

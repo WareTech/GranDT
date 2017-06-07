@@ -12,7 +12,6 @@ if (request.getParameter("submit") != null)
 	
 	if (this.getErrorList(session).size() == 0)
 	{
-		Database.getCurrentSession().beginTransaction();
 		User user = (User) Database.getCurrentSession().createCriteria(
 				User.class
 				)
@@ -25,7 +24,6 @@ if (request.getParameter("submit") != null)
 			user.setPassword((new sun.misc.BASE64Encoder()).encode(password.getBytes()));
 			Database.getCurrentSession().save(user);
 			
-			Database.getCurrentSession().getTransaction().commit();
 			this.sendMailToUser(
 					session, 
 					user, 
@@ -43,7 +41,6 @@ if (request.getParameter("submit") != null)
 			return;
 		}
 
-		Database.getCurrentSession().getTransaction().commit();
 		this.addError(session, "Dirección de email no registrada");
 	}
 }

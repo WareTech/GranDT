@@ -1,3 +1,4 @@
+<%@page import="ar.com.WareTech.GranDT.frontend.web.SecurityFilter"%>
 <%@page import="ar.com.WareTech.GranDT.backend.Database"%>
 <%@page import="ar.com.WareTech.GranDT.middleware.entities.*"%>
 <%@page import="ar.com.WareTech.GranDT.middleware.services.SecurityManager"%>
@@ -177,6 +178,17 @@ public List getMessageList(
 				);
 	}
 	return messageList;
+}
+
+//------------------------------------------------------------------------------------------------
+public String popRedirectAfterLogin(
+		HttpSession httpSession
+		)
+{
+	String redirectAfterLogin = (String) httpSession.getAttribute(SecurityFilter.REDIRECT_AFTER_LOGIN);
+	httpSession.removeAttribute(SecurityFilter.REDIRECT_AFTER_LOGIN);
+
+	return redirectAfterLogin;
 }
 
 //------------------------------------------------------------------------------------------------

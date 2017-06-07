@@ -10,7 +10,6 @@ SimpleDateFormat simpleDateFormat = new SimpleDateFormat("dd.MM.yyyy");
 String weekString = request.getParameter("week");
 System.out.println("Week=" + weekString);
 
-Database.getCurrentSession().beginTransaction();
 Week week =  (Week) Database.getCurrentSession().get(Week.class, new Long(weekString));
 %>
 <html>
@@ -101,6 +100,3 @@ while (matchIterator.hasNext())
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

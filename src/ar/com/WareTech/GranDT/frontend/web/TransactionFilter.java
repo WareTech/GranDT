@@ -17,6 +17,7 @@ import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import ar.com.WareTech.GranDT.backend.Database;
 import ar.com.WareTech.GranDT.middleware.entities.User;
 import ar.com.WareTech.GranDT.middleware.services.SecurityManager;
 
@@ -25,11 +26,9 @@ import ar.com.WareTech.GranDT.middleware.services.SecurityManager;
  * Company - WareTech TM (www.WareTech.com.ar)
  * Project - Mark SRL
  */
-public class SecurityFilter
+public class TransactionFilter
 	implements javax.servlet.Filter 
 {
-	final static public String REDIRECT_AFTER_LOGIN = "REDIRECT_AFTER_LOGIN";
-	
 	/* (non-Javadoc)
 	 * @see javax.servlet.Filter#destroy()
 	 */
@@ -50,41 +49,14 @@ public class SecurityFilter
 			ServletException 
 	{
 		HttpServletRequest httpServletRequest = (HttpServletRequest) servletRequest;
-		HttpServletResponse httpServletResponse = (HttpServletResponse) servletResponse;
+		System.out.println("TransactionFilter:" + httpServletRequest.getRequestURL());
 		
-		System.out.println("SecurityFilter:" + httpServletRequest.getRequestURL());
-
-		String url = httpServletRequest.getServletPath().substring(1);
-		if (url.startsWith("_"))
-		{
-			filterChain.doFilter(
-					servletRequest, 
-					servletResponse
-					);
-			return;
-		}
-
-		User user = (User) httpServletRequest.getSession().getAttribute(User.class.getName());
-		if (user == null)
-		{
-			httpServletRequest.getSession().setAttribute(REDIRECT_AFTER_LOGIN, httpServletRequest.getRequestURL().toString());
-			httpServletResponse.sendRedirect(httpServletRequest.getContextPath() + "/_Login.jsp");
-			return;
-		}
-
-		boolean authorized = SecurityManager.getInstance().checkAuthorization(user, url);
-		
-		if (authorized)
-		{
-			filterChain.doFilter(
-					servletRequest, 
-					servletResponse
-					);
-		}
-		else
-		{
-			httpServletResponse.sendRedirect(httpServletRequest.getContextPath() + "/_Unauthorized.jsp");
-		}
+		Database.getCurrentSession().beginTransaction();
+		filterChain.doFilter(
+				servletRequest, 
+				servletResponse
+				);
+		Database.getCurrentSession().getTransaction().commit();
 	}
 
 	/* (non-Javadoc)

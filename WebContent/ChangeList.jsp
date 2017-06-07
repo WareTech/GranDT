@@ -7,7 +7,6 @@
 <%
 int colspan = 7;
 
-Database.getCurrentSession().beginTransaction();
 Criteria changeCriteria = Database.getCurrentSession().createCriteria(Change.class);
 
 Week week = null;
@@ -168,6 +167,3 @@ else
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

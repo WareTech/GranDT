@@ -17,7 +17,7 @@ if (_USER != null)
 	}
 %>
 			|&nbsp;
-			<a href="Logout.jsp">Salir</a>&nbsp;
+			<a href="_Logout.jsp">Salir</a>&nbsp;
 		</td>
 	</tr>
 </table>

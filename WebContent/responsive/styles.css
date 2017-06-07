@@ -1,0 +1,78 @@
+/* Mobile first queries */
+
+/* Utility Classes */
+
+/* Make element full width */
+.u-full-width {
+  width: 100%;
+  box-sizing: border-box; 
+  text-align: left;
+}
+
+/* Make sure elements don't run outside containers (great for images in columns) */
+.u-max-full-width {
+  max-width: 100%;
+  box-sizing: border-box; 
+}
+
+/* Float either direction */
+.u-pull-right {
+  float: right; 
+}
+
+.u-pull-left {
+  float: left; 
+}
+
+/* Clear a float */
+.u-cf {
+  content: "";
+  display: table;
+  clear: both; 
+}
+
+.column {
+	background-color: yellow;
+	width: 50px;
+}
+
+/* Larger than phablet */
+@media (min-width: 550px) {
+	.u-full-width thead tr th {
+		background-color: blue;
+	}	
+	.column {
+		width: 550px;
+	}
+}
+
+/* Larger than tablet */
+@media (min-width: 750px) {
+	.u-full-width thead tr th {
+		background-color: red;
+	}	
+	.column {
+		width: 750px;
+	}
+}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {
+	.u-full-width thead tr th {
+		background-color: green;
+	}	
+	.column {
+		width: 1000px;
+	}
+}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {
+	.u-full-width thead tr th {
+		background-color: orange;
+	}	
+	.column {
+		width: 1200px;
+	}
+]	
+}

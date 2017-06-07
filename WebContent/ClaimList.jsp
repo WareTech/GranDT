@@ -40,7 +40,6 @@ else if (request.getParameter("delete") != null)
 
 int colspan = 8;
 
-Database.getCurrentSession().beginTransaction();
 Criteria criteria = Database.getCurrentSession().createCriteria(Claim.class);
 if (request.getParameter("state") == null)
 {
@@ -187,6 +186,3 @@ else
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>

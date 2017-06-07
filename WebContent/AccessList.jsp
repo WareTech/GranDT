@@ -8,8 +8,6 @@
 int colspan = 3;
 int accessCount = 0;	
 
-Database.getCurrentSession().beginTransaction();
-
 Access access = null;
 if (request.getParameter("edit") != null)
 {
@@ -208,6 +206,3 @@ else
 <%@include file="Footer.jsp"%>
 	</body>
 </html>
-<%
-Database.getCurrentSession().getTransaction().commit();
-%>
